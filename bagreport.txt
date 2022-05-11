@@ -1,0 +1,8 @@
+id
+Summary
+Precondition
+Steps to reproduce
+Expected result
+Actual result
+Priority
+Severyti
